@@ -1,4 +1,4 @@
 rangers_env
-env
+.env
 __pycache__
 migrations
